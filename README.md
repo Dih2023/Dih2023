@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ⭐
 
-<!--
-**Dih2023/Dih2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Diana Schmidt
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Sou professora de Educação infantil e no Ensino Médio Profissionalizante e Normal
+- Utilizo esse espaço para minha organização e compartilhamento de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo pelo email 📧
+
+- diana__schmidt@hotmail.com
+
+![](https://media.tenor.com/7ZqQMAptSQQAAAAM/teacher-pencils.gif)
+  
